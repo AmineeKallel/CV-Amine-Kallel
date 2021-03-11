@@ -1,6 +1,6 @@
 
 
-Template Name: Amine Kallel
-Template URL: enceint 
-Author: Benceint 
-License: enceint 
+Template Name: Amine Kallel CV
+
+Author: Amine Kallel
+
